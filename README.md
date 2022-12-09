@@ -1,2 +1,2 @@
-# zamanlay-c-
+# Timer
 20 Dk Zamanlayıcı
